@@ -1,0 +1,17 @@
+/* 
+	Compatibility with Gutenberg editor
+	version: 1.0
+ */
+
+.edit-post-meta-boxes-area #poststuff .stuffbox>h3, .edit-post-meta-boxes-area #poststuff h2.hndle{
+    margin-bottom: 20px;
+}
+.edit-post-meta-boxes-area .postbox {
+    margin-bottom: 20px!important;
+}
+.edit-post-layout__metaboxes {
+    background-color: #edeff0;
+}
+.edit-post-layout__content {
+    overflow-y: visible!important;
+}

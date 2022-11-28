@@ -1,0 +1,8 @@
+.container_inner{
+    position: relative;
+}
+
+.projects_holder.hover_text article .item_holder.slide_from_left_hover .icons_holder,
+.projects_masonry_holder article .item_holder.slide_from_left_hover .icons_holder {
+	left: 1px;
+}

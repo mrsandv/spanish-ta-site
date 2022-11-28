@@ -1,0 +1,11 @@
+1.0.3
+- Fixed issue with Portfolio list column number
+- Fixed issue with Mikado Carousel number of items
+
+1.0.2
+- Updated language files
+- Fixed issue with Order By option for Carousel shortcode
+
+1.0.1
+- Fixed issue with Portfolio List - Pinterest With Image Only and filter
+- Fixed Mikado Slider and loading image appearing issue
